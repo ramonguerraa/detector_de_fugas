@@ -1,0 +1,151 @@
+fecha,producto_id,descripcion,categoria,marca,cantidad_comprada,costo_unitario
+2026-01-08,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,500,14.47
+2026-02-08,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,500,14.88
+2026-03-05,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,500,15.07
+2026-04-09,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,1000,15.37
+2026-05-09,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,100,15.83
+2026-06-02,PROD001,Filtro de Aceite Heavy Duty,Filtros,Wix,200,16.33
+2026-01-07,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,1000,14.04
+2026-02-05,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,200,15.77
+2026-03-08,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,100,17.04
+2026-04-02,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,500,19.03
+2026-05-04,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,1000,21.06
+2026-06-09,PROD002,Filtro de Aceite Heavy Duty,Filtros,Motorcraft,500,22.81
+2026-01-08,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,500,12.69
+2026-02-02,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,1000,13.18
+2026-03-04,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,200,13.46
+2026-04-06,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,1000,13.69
+2026-05-08,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,1000,14.08
+2026-06-03,PROD003,Filtro de Aceite Heavy Duty,Filtros,Millard,1000,14.6
+2026-01-03,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,200,12.36
+2026-02-06,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,1000,12.56
+2026-03-08,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,200,12.7
+2026-04-03,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,1000,12.97
+2026-05-09,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,1000,13.33
+2026-06-09,PROD004,Filtro de Aceite Heavy Duty,Filtros,Winner,100,13.84
+2026-01-03,PROD005,Filtro de Aire Camión,Filtros,Wix,1000,20.12
+2026-02-09,PROD005,Filtro de Aire Camión,Filtros,Wix,1000,22.13
+2026-03-11,PROD005,Filtro de Aire Camión,Filtros,Wix,100,24.35
+2026-04-02,PROD005,Filtro de Aire Camión,Filtros,Wix,100,26.33
+2026-05-09,PROD005,Filtro de Aire Camión,Filtros,Wix,1000,29.16
+2026-06-08,PROD005,Filtro de Aire Camión,Filtros,Wix,500,31.53
+2026-01-02,PROD006,Filtro de Aire Camión,Filtros,Truck,500,19.6
+2026-02-01,PROD006,Filtro de Aire Camión,Filtros,Truck,200,20.15
+2026-03-09,PROD006,Filtro de Aire Camión,Filtros,Truck,1000,20.74
+2026-04-08,PROD006,Filtro de Aire Camión,Filtros,Truck,1000,21.48
+2026-05-03,PROD006,Filtro de Aire Camión,Filtros,Truck,500,21.76
+2026-06-07,PROD006,Filtro de Aire Camión,Filtros,Truck,100,22.41
+2026-01-04,PROD007,Filtro de Aire Camión,Filtros,Highfil,200,20.75
+2026-02-03,PROD007,Filtro de Aire Camión,Filtros,Highfil,100,23.09
+2026-03-05,PROD007,Filtro de Aire Camión,Filtros,Highfil,200,26.17
+2026-04-08,PROD007,Filtro de Aire Camión,Filtros,Highfil,500,29.67
+2026-05-10,PROD007,Filtro de Aire Camión,Filtros,Highfil,200,33.52
+2026-06-03,PROD007,Filtro de Aire Camión,Filtros,Highfil,500,36.28
+2026-01-02,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,1000,8.16
+2026-02-04,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,500,8.46
+2026-03-09,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,500,8.65
+2026-04-05,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,500,8.98
+2026-05-04,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,200,9.11
+2026-06-09,PROD008,Refrigerante Verde Listo para Usar (Galón),Químicos,AC_Delco,1000,9.23
+2026-01-05,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,500,6.74
+2026-02-07,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,500,6.99
+2026-03-03,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,500,7.11
+2026-04-10,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,100,7.36
+2026-05-04,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,1000,7.44
+2026-06-09,PROD009,Refrigerante Verde Listo para Usar (Galón),Químicos,Prestone,100,7.62
+2026-01-04,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,1000,6.11
+2026-02-06,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,1000,6.21
+2026-03-11,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,200,6.35
+2026-04-02,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,1000,6.46
+2026-05-08,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,100,6.62
+2026-06-05,PROD010,Refrigerante Verde Listo para Usar (Galón),Químicos,Dr_Care,100,6.74
+2026-01-02,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,1000,8.04
+2026-02-06,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,1000,8.7
+2026-03-03,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,200,9.78
+2026-04-03,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,200,10.93
+2026-05-07,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,1000,11.99
+2026-06-07,PROD011,Refrigerante Verde Listo para Usar (Galón),Químicos,Valvoline,500,13.59
+2026-01-02,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,250,5.06
+2026-02-04,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,500,5.26
+2026-03-03,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,1000,5.33
+2026-04-07,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,1000,5.5
+2026-05-05,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,1000,5.61
+2026-06-03,PROD012,Aceite 20W-50 Mineral (Litro),Lubricantes,Shell_Helix,1000,5.8
+2026-01-05,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,1000,4.36
+2026-02-02,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,1000,4.51
+2026-03-11,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,1000,4.57
+2026-04-04,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,500,4.65
+2026-05-10,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,250,4.77
+2026-06-02,PROD013,Aceite 20W-50 Mineral (Litro),Lubricantes,Hammer,500,4.96
+2026-01-06,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,1000,4.67
+2026-02-07,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,1000,4.76
+2026-03-05,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,1000,4.91
+2026-04-05,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,250,5.09
+2026-05-09,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,250,5.27
+2026-06-08,PROD014,Aceite 20W-50 Mineral (Litro),Lubricantes,PDV_Premium,500,5.45
+2026-01-04,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,250,4.39
+2026-02-03,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,500,4.56
+2026-03-04,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,1000,4.68
+2026-04-10,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,250,4.75
+2026-05-06,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,1000,4.82
+2026-06-03,PROD015,Aceite 20W-50 Mineral (Litro),Lubricantes,Inca_Oil,250,4.96
+2026-01-04,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,500,5.4
+2026-02-06,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,1000,6.2
+2026-03-08,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,1000,7.09
+2026-04-03,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,250,7.83
+2026-05-02,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,250,8.56
+2026-06-03,PROD016,Aceite 20W-50 Mineral (Litro),Lubricantes,Castrol,250,9.59
+2026-01-02,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,200,26.0
+2026-02-05,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,1000,26.94
+2026-03-11,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,100,27.98
+2026-04-02,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,500,28.73
+2026-05-04,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,1000,29.86
+2026-06-05,PROD017,Pastillas de Freno Delanteras NQR,Frenos,Wagner,100,30.33
+2026-01-04,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,100,22.33
+2026-02-06,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,1000,23.02
+2026-03-10,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,500,23.4
+2026-04-07,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,500,23.88
+2026-05-03,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,1000,24.35
+2026-06-01,PROD018,Pastillas de Freno Delanteras NQR,Frenos,Isuzu,200,24.69
+2026-01-08,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,500,24.45
+2026-02-03,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,1000,24.88
+2026-03-09,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,100,25.51
+2026-04-05,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,1000,26.26
+2026-05-04,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,1000,26.79
+2026-06-02,PROD019,Pastillas de Freno Delanteras NQR,Frenos,Raybestos,500,27.13
+2026-01-07,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,500,49.97
+2026-02-06,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,500,51.36
+2026-03-03,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,500,51.93
+2026-04-07,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,250,53.28
+2026-05-02,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,250,55.14
+2026-06-07,PROD020,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Shell_Helix,250,55.83
+2026-01-05,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,1000,42.94
+2026-02-07,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,250,43.55
+2026-03-04,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,500,44.66
+2026-04-04,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,1000,46.17
+2026-05-04,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,1000,47.24
+2026-06-05,PROD021,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Hammer,500,47.97
+2026-01-08,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,250,46.03
+2026-02-01,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,250,46.73
+2026-03-04,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,500,47.53
+2026-04-10,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,250,48.95
+2026-05-02,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,1000,50.84
+2026-06-05,PROD022,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,PDV_Premium,1000,52.28
+2026-01-04,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,1000,47.19
+2026-02-05,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,250,51.36
+2026-03-07,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,500,55.8
+2026-04-05,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,500,60.95
+2026-05-06,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,250,67.85
+2026-06-05,PROD023,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Inca_Oil,500,75.17
+2026-01-07,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,500,49.39
+2026-02-04,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,500,50.44
+2026-03-05,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,250,51.71
+2026-04-09,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,1000,53.25
+2026-05-03,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,1000,53.82
+2026-06-04,PROD024,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Castrol,500,55.29
+2026-01-04,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,250,56.25
+2026-02-03,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,1000,63.98
+2026-03-03,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,500,73.41
+2026-04-03,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,500,79.48
+2026-05-04,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,500,87.71
+2026-06-08,PROD025,Aceite 15W-40 Diesel (Balde 5 Gal),Lubricantes,Valvoline,500,97.09
